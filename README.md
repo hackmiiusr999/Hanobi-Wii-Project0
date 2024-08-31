@@ -20,3 +20,7 @@ updated version [4.0] skipping the rest for design testing.
 
  if you think that this could be a legal issue, Please put it in the 'issues' section. 
 --------------------------------------------------------------------------------------|
+
+
+NOTE2: If you Wish to download, go to the release section.
+---------------------------------------------------------
